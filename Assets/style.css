@@ -1,19 +1,17 @@
 * {
     box-sizing: border-box;
 }
-
+.wu-dark {
+    background-color: blueviolet;
+}
 .container {
     width: max-width;
 }
 
 img {
-    padding: 20px 20px 20px 20px;
-    background-color: blue;
-    margin-left: 40px;
-    margin-top: 40px;
-
-
-
+    padding: 20px 0px 20px 0px;
+    margin-left: 20px;
+    margin-top: 20px;
 }
 .img-fluid {
     max-width: 100%;
