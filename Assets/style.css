@@ -7,12 +7,8 @@ body {
 .wu-dark {
     background-color: rgb(26, 209, 157);
 }
-.container {
-    width: max-width;
-}
 
-.container-contact, 
-.container-contact h1{
+.container-contact{
     position: relative;
     display: flex;
     justify-content: center;
@@ -25,8 +21,16 @@ body {
     
 }
 
+h1 {
+    margin-bottom: 20px;
+    text-align: center;
+    color: rgb(26, 209, 157);
+    padding: 10px;
+    background-color: white;
+}
+
 form {
-    width: 100%;
+    max-width: 100%;
     padding: 20px;
     background-color: white;
 }
@@ -35,7 +39,6 @@ form {
     position: relative;
     width: 100%;
     margin-bottom: 10px;
-    resize: none;
 
 }
 
@@ -49,30 +52,12 @@ img {
     height: auto; 
 }
 
+/* Media Queries*/
 
 
 
 
-@media (min-width: 576px) { 
-    
 
-}
-
-/* Medium devices (tablets, 768px and up)*/
-@media (min-width: 768px) { 
-
-
-}
-
-/* Large devices (desktops, 992px and up)*/
-@media (min-width: 992px) { 
-
- }
-
-/* Extra large devices (large desktops, 1200px and up)*/
-@media (min-width: 1200px) { 
-
-}
 
 
 
