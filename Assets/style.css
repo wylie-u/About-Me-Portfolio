@@ -12,9 +12,6 @@ body {
     width: 100%;
     margin-top: 30px;
 }
-.about-me {
-
-}
 .container-contact {
     margin-top: 20px;
     width: 100%;
@@ -42,18 +39,25 @@ h1 {
     color: darkslategray;
     font-size: 30px;
 }
-.accordion h1{
+.accordion h1 {
 
     font-size: 40px;
 
+}
 
+aside {
+    margin-left: 20px;
+    margin-top: 70px;
+    
+}
 
 
 
 /* Media Queries*/
 
-
-
+@media (min-width: 576px) { 
+   
+ }
 
 
 
