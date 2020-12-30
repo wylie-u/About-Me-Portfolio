@@ -8,52 +8,47 @@ body {
     background-color: rgb(26, 209, 157);
 }
 
-.container-contact{
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 0;
+.container {
+    width: 100%;
     margin-top: 30px;
+}
+.about-me {
+
+}
+.container-contact {
+    margin-top: 20px;
     width: 100%;
     height: auto;
-    font-family: sans-serif;
-    
 }
 
-.container-contact h1 {
-    margin-bottom: 20px;
-    text-align: center;
-    color: rgb(26, 209, 157);
-    padding: 10px;
-    background-color: white;
+.jumbotron {
+    width: 100%;
+    float: left;
 }
 
 form {
-    max-width: 100%;
-    padding: 20px;
-    background-color: white;
-}
-
-.form-name, .form-email,.message-label {
-    position: relative;
     width: 100%;
-    margin-bottom: 10px;
-
+    
 }
 
 img {
-    width: 100%;
-    float: left;
-    height: auto;
-    padding: 20px 0px 20px 0px;
-    margin-top: 20px;
+    float:left;
+    margin-right: 10px;
+
 }
 
-.img-fluid {
-    max-width: 100%;
-    height: auto; 
+h1 {
+    text-align: center;
+    color: darkslategray;
+    font-size: 30px;
 }
+.accordion h1{
+
+    font-size: 40px;
+
+
+
+
 
 /* Media Queries*/
 
