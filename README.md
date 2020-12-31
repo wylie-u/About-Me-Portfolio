@@ -17,7 +17,7 @@ I am definitely still new to this craft, but with every new challenge, I find my
 
 ## Installation
 
-1. visit getbootstrap.com
+1. visit https://getbootstrap.com/ 
 
 ## Usage
 
