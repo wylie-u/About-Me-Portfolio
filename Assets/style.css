@@ -28,6 +28,10 @@ body {
     color:rgb(65, 16, 226)
 }
 
+.btn-outline-success {
+    border-color: rgb(65, 16, 226);
+}
+
 .btn-index {
     font-size: 30px;
     color:rgb(65, 16, 226)
@@ -37,10 +41,17 @@ form {
     
 }
 
-img {
+picture img {
     float:left;
-    margin-right: 10px;
+    display:block;
+    margin-right: auto;
+margin-left: auto;
+}
 
+.wylieImg{
+align-content: center;
+display: flex;
+justify-content: center;
 }
 
 accordion {
