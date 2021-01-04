@@ -74,6 +74,10 @@ aside {
     
 }
 
+.carousel-control-prev, .carousel-control-next {
+    background-color: grey;
+}
+
 
 
 /* Media Queries*/
@@ -94,6 +98,12 @@ aside {
          margin-top: 60px;
      }
   }
+
+  @media (min-width: 768px) { 
+     #carouselExampleCaptions {
+         justify-content: center;
+     }
+   }
 
 
 
