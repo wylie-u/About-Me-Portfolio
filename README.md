@@ -21,17 +21,17 @@ I am definitely still new to this craft, but with every new challenge, I find my
 
 ## Usage
 
-## ![About Me 400px](Assets/images/portfolioimages/AboutMe-400.png)
+![About Me 400px] About Me 400px (Assets/images/portfolioimages/AboutMe-400.png)
 
-![About Me 768px](Assets/images/portfolioimages/AboutMe-768.png)
+![About Me 768px] About Me 768px (Assets/images/portfolioimages/AboutMe-768.png)
 
-![About Me 992px](Assets/images/portfolioimages/AboutMe-992.png)
+![About Me 992px] About Me 992px (Assets/images/portfolioimages/AboutMe-992.png)
 
-![Contact Page 400px](Assets/images/portfolioimages/Contact-Page-400.png)
+![Contact Page 400px] Contact Page 400px (Assets/images/portfolioimages/Contact-Page-400.png)
 
-![Contact Page 768px](Assets/images/portfolioimages/Contact-Page-768.png)
+![Contact Page 768px] Contact Page 768px (Assets/images/portfolioimages/Contact-Page-768.png)
 
-![Contact Page 992px](Assets/images/portfolioimages/Contact-Page-992.png)
+![Contact Page 992px] Contact Page 992px (Assets/images/portfolioimages/Contact-Page-992.png)
 
 ![Portfolio 400px](Assets/images/portfolioimages/Portfolio-400.png)
 
