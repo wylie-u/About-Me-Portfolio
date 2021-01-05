@@ -21,7 +21,7 @@ I am definitely still new to this craft, but with every new challenge, I find my
 
 ## Usage
 
-![About Me 400px](Assets/images/portfolioimages/AboutMe-400.png)
+## ![About Me 400px](Assets/images/portfolioimages/AboutMe-400.png)
 
 ![About Me 768px](Assets/images/portfolioimages/AboutMe-768.png)
 
