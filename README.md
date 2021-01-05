@@ -22,8 +22,8 @@ I am definitely still new to this craft, but with every new challenge, I find my
 ## Usage
 
 ![About Me 400px](Assets/images/portfolioimages/About-Me-400px.png)
-![About Me 768px](Assets/images/portfolioimages/About-Me-768px.png)
-![About Me 992px](Assets/images/portfolioimages/About-Me-992px.png)
+![About Me 768px](Assets/images/portfolioimages/About-Me-768.png)
+![About Me 992px](Assets/images/portfolioimages/About-Me-992.png)
 ![Contact Page 400px](Assets/images/portfolioimages/Contact-Page-400.png)
 ![Contact Page 768px](Assets/images/portfolioimages/Contact-Page-768.png)
 ![Contact Page 992px](Assets/images/portfolioimages/Contact-Page-992.png)
