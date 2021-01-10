@@ -10,7 +10,7 @@ This was not an easy project, to say the least. I was challenged with properly u
 I am definitely still new to this craft, but with every new challenge, I find myself enjoying the process even more. Hope you enjoy as well!
 
 ## Table of Contents
- * [Installation Page](Installation) 
+ * [Installation Page](## Installation) 
  * (Usage)
  * (Credits)
  * (License)
