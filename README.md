@@ -10,7 +10,7 @@ This was not an easy project, to say the least. I was challenged with properly u
 I am definitely still new to this craft, but with every new challenge, I find myself enjoying the process even more. Hope you enjoy as well!
 
 ## Table of Contents
- * (Installation) 
+ * [Installation Page](Installation) 
  * (Usage)
  * (Credits)
  * (License)
@@ -57,7 +57,7 @@ I am definitely still new to this craft, but with every new challenge, I find my
 ![Portfolio 992px](Assets/images/portfolioimages/Portfolio-992.png)
 
 ## Credits
-1. getbootstrap.com
+1. https://getbootstrap.com/
 2. https://www.w3schools.com
 
 ## License
