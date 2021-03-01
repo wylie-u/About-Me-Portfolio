@@ -17,7 +17,8 @@ I am definitely still new to this craft, but with every new challenge, I find my
 
 ## Installation
 
-1. visit https://getbootstrap.com/ 
+1. Live Link: https://wylie-u.github.io/About-Me-Portfolio/
+2. visit https://getbootstrap.com/ 
 
 ## Usage
 * About Me 400px
