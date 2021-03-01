@@ -2,13 +2,15 @@
     box-sizing: border-box;
 }
 body {
-    background-color: whitesmoke;
+    background-color: #FBFAF9;
 }
 
-/* navbar color */
+
 .wu-dark {
-    background-color:rgb(65, 16, 226);
-}
+    background-color:rgb(46, 46, 141);
+    
+} 
+
 
 .container {
 
@@ -92,10 +94,115 @@ aside {
     
 }
 
+ul {
+    list-style-type: none;
+  }
+
 .carousel-control-prev, .carousel-control-next {
     background-color: grey;
 }
+.carousel-control-prev-icon{
+    position: relative;
+    top:10px;
+}
 
+.carousel-control-next-icon{
+    position: relative;
+    top:10px;
+}
+
+.main{
+    margin-top: 12.0rem;
+    margin-bottom:12.5rem;
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+   
+}
+
+ .main-content{
+    grid-area: content;
+    font-size: 1.3rem;
+    margin-bottom: 1.5rem;
+    line-height: 1.65rem;
+    padding: 10px 0;
+}
+
+
+.overlay {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0, 0.9);
+    overflow-x: hidden;
+    transition: 0.5s;
+  }
+  
+  .overlay-content {
+    position: relative;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  .overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .overlay a:hover, .overlay a:focus {
+    color: #f1f1f1;
+  }
+  
+  .overlay .closebtn {
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    font-size: 60px;
+  }
+
+  footer{
+      display: flex;
+      width: 200px;
+      margin: auto;
+      justify-content: center;
+  }
+  .contact-info{
+      
+      cursor: pointer;
+      
+  }
+
+  .contact-icon{
+      padding: 5px;
+  }
+
+  a{
+      color: black;
+  }
+
+  span {
+      position: absolute;
+      right: 5%;
+      top: 5%;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .overlay a {font-size: 20px}
+    .overlay .closebtn {
+    font-size: 40px;
+    top: 15px;
+    right: 35px;
+    }
+}
 
 
 /* Media Queries*/
@@ -131,6 +238,7 @@ aside {
     }
    }
 
+   
    
    
 
